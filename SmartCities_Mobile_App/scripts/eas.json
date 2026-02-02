@@ -1,0 +1,9 @@
+{
+  "submit": {
+    "production": {
+      "ios": {
+        "ascAppId": "your-app-store-connect-app-id"
+      }
+    }
+  }
+}
